@@ -1,10 +1,10 @@
 :root
 {
-     --uncblue: RGB(1,45,91);
+     --lightblue: RGB(173,216,230);
      --darkpurple: RGB(48,25,52);
-     --uncgray: RGB(235,235,235);
-     color: var(--uncblue);
-     background-color:var(--uncgray);
+     --gray: RGB(211,211,211);
+     color: var(--lightblue);
+     background-color:var(--gray);
      text-align: center;
 }
 
@@ -15,7 +15,7 @@
 
 h1
 {
-     font-size: 48pt;
+     font-size: 40pt;
      text-decoration: underline;
 }
 
